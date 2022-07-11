@@ -47,7 +47,7 @@ If the user already selected the toys from shop
 Cart will list all selected toys
 Test Data: Cart with selected item
 Expected Result: The selected toys with item name, price, quantity(editable), subtotal, Action and with Total, checkout button and empty cart button should be shown. The total should be correct.
-Actual Result:
+Actual Result:2
 Status :
 NB: Use both positive and negative test cases here 
 
@@ -144,7 +144,7 @@ Click on the contact hyperlink
 The customer should at least enter name, email and message
 Click on Submit button
 Test Data: Customer details and message 
-Expected Result: The feedback will be processed and shows a thanks message for the feedback and a back button will be displayed. Once you click on the back button it should display the feedback form again.
+Expected Result: The feedback will be processed and shows a thankyou message as the feedback and a back button will be displayed. Once you click on the back button it should display the feedback form again.
 Actual Result:
 Status :
 NB: Use both positive and negative test cases here for all the fields
@@ -177,6 +177,6 @@ Navigate to https://jupiter.cloud.planittesting.com/
 Click on the hyperlinks and navigate through out the website
 Check the Field names spelling colour logo throughout the website
 Test Data: Navigate through the website and enter corresponding details as required
-Expected Result: Verify that the hyperlinks work. Compulsory fields are marks with *. Passwords are masked. Length of fields are appropriate. Logos on the home page are correct and spells properly.
+Expected Result: Verify that the hyperlinks work. Compulsory fields are marked with *. Passwords are masked. Length of fields are appropriate. Logos on the home page are correct and spells properly.
 Actual Result:
 Status :
